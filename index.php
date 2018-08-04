@@ -1,5 +1,5 @@
 <?
 
-ocho "Heelo World"
+ocho "Ola Mundo"
 
 ?>
